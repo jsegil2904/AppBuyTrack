@@ -1,0 +1,50 @@
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll.config
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.xml
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.csprojResolveAssemblyReference.cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll.config
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.xml
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.csprojResolveAssemblyReference.cache
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Repository.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.DataAccess.Interfaces.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Base.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\App.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Repository\obj\Debug\App.DataAccess.Repository.pdb

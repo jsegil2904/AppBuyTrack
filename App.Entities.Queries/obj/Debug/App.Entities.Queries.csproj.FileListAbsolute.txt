@@ -1,0 +1,11 @@
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojResolveAssemblyReference.cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb

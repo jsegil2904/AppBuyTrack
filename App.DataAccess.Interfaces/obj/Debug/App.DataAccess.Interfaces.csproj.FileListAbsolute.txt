@@ -1,0 +1,29 @@
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.DataAccess.Interfaces.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Base.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\bin\Debug\App.Entities.Queries.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.DataAccess.Interfaces\obj\Debug\App.DataAccess.Interfaces.pdb

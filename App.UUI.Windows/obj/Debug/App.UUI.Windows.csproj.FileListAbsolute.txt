@@ -1,0 +1,66 @@
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe.config
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csprojResolveAssemblyReference.cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.Properties.Resources.resources
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csproj.GenerateResource.Cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.exe
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmAddInvoice.resources
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindCustomer.resources
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindTrack.resources
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.xml
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe.config
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.exe
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csprojResolveAssemblyReference.cache
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmAddInvoice.resources
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindCustomer.resources
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindTrack.resources
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.Properties.Resources.resources
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csproj.GenerateResource.Cache
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.pdb
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.xml
+F:\ProyectosPNET\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.exe
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.UUI.Windows.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Interfaces.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.DataAccess.Repository.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\App.Entities.Base.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmAddInvoice.resources
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindCustomer.resources
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.FrmFindTrack.resources
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.Properties.Resources.resources
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csproj.GenerateResource.Cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.exe
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.UUI.Windows\obj\Debug\App.UUI.Windows.pdb

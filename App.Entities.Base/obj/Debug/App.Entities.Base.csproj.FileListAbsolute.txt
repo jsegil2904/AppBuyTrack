@@ -1,0 +1,21 @@
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.dll.config
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.xml
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.xml
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.csprojResolveAssemblyReference.cache
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+e:\usuario\documentos\visual studio 2015\Projects\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.dll.config
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\Desktop\AppBuyTrack3\AppBuyTrack2\AppBuyTrack2\AppBuyTrack\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
